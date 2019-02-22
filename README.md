@@ -1,3 +1,2 @@
-# frontend
-
-A quick description of frontend.
+# strapi-mydevil-app
+Strapi starter for mydevil.net hosting
